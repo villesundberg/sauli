@@ -93,7 +93,7 @@ end
 sauli = Sauli.new(driver)
 sauli.login
 
-puts "Data used: #{sauli.data_used} GB"
+puts "Data left: #{sauli.data_used} GB"
 
 sauli.sms_received.each do |sms|
   puts "---"
