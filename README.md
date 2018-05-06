@@ -1,2 +1,5 @@
 # sauli
-Sauli is a command line API for the TP-Link Archer MR 200 LTE router
+Sauli is a Ruby library for the TP-Link Archer MR 200 LTE router. It uses a headless Google Chrome to access the router's web admin interface.
+
+
+
